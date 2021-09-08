@@ -6,3 +6,5 @@ A NPM Package for CBot
 
 ### NPM Author
 `Phaticusthiccy` - [NPM](https://www.npmjs.com/package/whatsasena-npm)
+### NPM Developer
+ 'Aqua Snake'
