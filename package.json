@@ -22,7 +22,7 @@
     "wa-sticker-formatter": "3.6.0",
     "browser-id3-writer": "^4.4.0",
     "playstore-scraper": "^1.0.0",
-    "axios": "0.21.3",
+    "axios": "1.6.0",
     "googlethis": "^1.1.6",
     "audiobuffer-to-wav": "1.0.0",
     "chalk": "^4.1.0",
